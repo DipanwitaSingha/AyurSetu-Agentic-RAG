@@ -15,7 +15,7 @@ The application uses a **text-first RAG architecture**:
 - Railway hosts the deployed application.
 
 ---
-
+# Link for live project : https://web-production-596c7.up.railway.app/
 # 1. Current Architecture
 
 ```text
