@@ -16,6 +16,16 @@
 </div>
 
 ---
+
+---
+
+## 🌐 Live Application
+
+**AyurSetu Agentic RAG**
+
+https://web-production-596c7.up.railway.app/
+
+---
 ## 🏗️ AyurSetu Agentic RAG Architecture
 
 ![AyurSetu Agentic RAG Architecture](docs/AyurSetu_Agentic_RAG_Infographic.png)
@@ -812,15 +822,7 @@ git pull --rebase origin main
 git push origin main
 ```
 
----
 
-## 🌐 Live Application
-
-**AyurSetu Agentic RAG**
-
-https://web-production-596c7.up.railway.app/
-
----
 
 <div align="center">
 
