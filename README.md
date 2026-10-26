@@ -19,9 +19,11 @@
 
 ---
 
-## 🏗️ AyurSetu Agentic RAG 
 
-![AyurSetu Agentic RAG Architecture](docs/AyurSetu-Agentic RAG compressed file.mp4)
+## AyurSetu Agentic RAG Architecture
+
+[▶ Watch the AyurSetu Agentic RAG Architecture video](<docs/AyurSetu-Agentic RAG compressed file.mp4>)
+
 
 ## 🌐 Live Application
 
